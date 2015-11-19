@@ -1,0 +1,13 @@
+.sentence {
+    font-size: 1.4em;
+  vertical-align: middle;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 0 ;
+    font-family:   "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  
+}
+
+.other{ text-decoration: none; color: blue; }
+.other:hover { text-decoration: underline; color: blue; }
+.other:visited { color: blue; }

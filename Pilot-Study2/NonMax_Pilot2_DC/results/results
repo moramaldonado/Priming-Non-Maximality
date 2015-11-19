@@ -1,0 +1,1240 @@
+#
+# Results on Monday November 09 2015 17:11:14 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+# Design number was non-random = 0
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447089075,b18878ec368dfa2671ec4602bd6de265,NewForm,0,0,agreement,NULL,,yes
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,2206
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,88,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,2135
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,78,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,1636
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,64,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,1154
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,87,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,13698
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,27,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 dots are above the line.,r,NULL,3584
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,28,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,a,NULL,1284
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,49,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,1323
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,3,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,1426
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,79,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,2041
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,63,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,4103
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,68,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1963
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,54,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,6313
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,70,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,1610
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,40,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,r,NULL,981
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,72,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,1054
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,74,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,1556
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,17,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,a,NULL,1919
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,16,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,1594
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,66,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,5515
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,65,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,1518
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,76,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,6334
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,13,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1026
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,55,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1463
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,48,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 crosses are below the line.,a,NULL,2742
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,34,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,r,NULL,5873
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,69,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,87857
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,33,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,4650
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,93,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,2434
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,14,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are red.,a,NULL,1107
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,4,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,1196
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,81,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,13179
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,43,1,2_DC_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,1521
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,22,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are green.,a,NULL,2372
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,97,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are blue.,a,NULL,1916
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,92,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,1163
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,60,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,2211
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,32,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,2359
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,52,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,3936
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,44,1,2_DC_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,883
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,38,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1935
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,47,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,1457
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,96,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,7934
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,75,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,2615
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,59,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,10645
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,39,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,11303
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,19,1,2_DC_Filler-Target1_True_C_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,1324
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,42,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,4205
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,85,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,1137
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,41,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,a,NULL,6307
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,23,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,r,NULL,1195
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,67,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,4252
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,58,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1005
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,35,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,3757
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,94,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,1931
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,9,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,6051
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,56,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are red.,r,NULL,1251
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,82,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,9740
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,73,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,941
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,46,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,2770
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,24,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,835
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,30,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,a,NULL,1435
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,6,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are blue.,a,NULL,756
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,77,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,898
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,57,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,1576
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,51,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,748
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,29,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,786
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,36,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,a,NULL,555
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,12,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are red.,a,NULL,1051
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,37,1,2_DC_Filler-Target2_True_C_Baseline_X-X_X,NULL,All dots are red.,r,NULL,651
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,11,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are blue.,r,NULL,441
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,5,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,r,NULL,1196
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,20,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,1083
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,98,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,2279
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,86,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are red.,r,NULL,533
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,31,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,1093
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,61,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are red.,r,NULL,959
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,89,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1615
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,15,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,893
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,10,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are red.,a,NULL,821
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,53,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,1188
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,18,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,2173
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,95,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1684
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,21,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,719
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,90,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,1196
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,84,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,1131
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,91,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,1228
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,80,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,1250
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,62,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,959
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,45,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,a,NULL,1836
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,25,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,2320
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,8,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some dots are red.,r,NULL,1435
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,83,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,4290
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,7,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,613
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,50,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,917
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,71,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,1019
+1447089075,b18878ec368dfa2671ec4602bd6de265,SubHtmlFlash,26,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are blue.,a,NULL,1148
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447089075,b18878ec368dfa2671ec4602bd6de265,NewForm,99,0,quest,NULL,year,1988
+1447089075,b18878ec368dfa2671ec4602bd6de265,NewForm,99,0,quest,NULL,language,Spanish
+1447089075,b18878ec368dfa2671ec4602bd6de265,NewForm,99,0,quest,NULL,idturk,XXXX
+1447089075,b18878ec368dfa2671ec4602bd6de265,NewForm,99,0,quest,NULL,comment,
+1447089075,b18878ec368dfa2671ec4602bd6de265,NewForm,99,0,quest,NULL,sex,female
+#
+# Results on Monday November 09 2015 22:22:45 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+# Design number was non-random = 1
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,NewForm,0,0,agreement,NULL,,yes
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,719
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,72,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,771
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,17,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,863
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,6,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are blue.,a,NULL,1661
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,83,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,1087
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,89,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,2502
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,68,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,879
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,38,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,465
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,14,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,r,NULL,415
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,11,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,r,NULL,894
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,4,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,394
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,51,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,894
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,9,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,r,NULL,1255
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,29,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,1842
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,13,1,2_DC_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,r,NULL,2794
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,58,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,3633
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,65,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,5128
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,85,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,1419
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,49,1,2_DC_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,1302
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,69,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,3224
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,97,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,1056
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,18,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,729
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,34,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,a,NULL,1496
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,81,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,3202
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,67,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,2305
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,92,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,1992
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,37,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,3889
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,32,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,8033
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,31,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are red.,a,NULL,3343
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,48,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 crosses are below the line.,a,NULL,4122
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,15,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,8741
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,64,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,1347
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,82,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,4029
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,12,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,2090
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,98,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,2024
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,40,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,969
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,19,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,1314
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,87,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1678
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,70,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,4781
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,63,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,5776
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,84,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,4735
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,54,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1050
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,79,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are green.,a,NULL,719
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,77,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,2891
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,7,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,667
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,91,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are blue.,a,NULL,682
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,5,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,1184
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,86,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1290
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,27,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,r,NULL,2415
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,96,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,2779
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,39,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,a,NULL,1960
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,43,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,1337
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,75,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,1720
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,45,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,a,NULL,8451
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,28,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,r,NULL,7270
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,53,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,220
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,78,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1641
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,71,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,2472
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,42,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,r,NULL,555
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,59,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,625
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,62,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,683
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,88,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,172
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,94,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,841
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,25,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are green.,r,NULL,655
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,35,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,r,NULL,5842
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,33,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,r,NULL,1426
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,60,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,546
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,80,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,520
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,36,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,r,NULL,577
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,10,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are red.,r,NULL,1976
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,61,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1054
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,95,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1303
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,50,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,4249
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,3,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,6409
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,74,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,986
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,93,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1857
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,21,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,r,NULL,2016
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,66,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,2343
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,46,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,r,NULL,3097
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,23,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,r,NULL,1082
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,73,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1104
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,47,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,1607
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,56,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,12057
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,52,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,6993
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,30,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,a,NULL,5995
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,57,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,1562
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,76,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1630
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,41,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,1823
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,26,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,3145
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,90,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,759
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,55,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are red.,a,NULL,2000
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,22,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,617
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,44,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,1023
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,20,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are green.,r,NULL,3728
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,16,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,1378
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,8,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,2103
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,24,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,1191
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,NewForm,99,0,quest,NULL,year,1999
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,NewForm,99,0,quest,NULL,language,Spanish
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,NewForm,99,0,quest,NULL,idturk,XXXX
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,NewForm,99,0,quest,NULL,comment,
+1447107765,0a96870b2b49f264cc4fd2d7034a51db,NewForm,99,0,quest,NULL,sex,female
+#
+# Results on Wednesday November 11 2015 22:15:36 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+# Design number was non-random = 2
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,NewForm,0,0,agreement,NULL,,yes
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,7043
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,87,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,2004
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,71,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,1036
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,56,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,1457
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,19,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,1674
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,3,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,1751
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,53,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,1600
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,73,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1505
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,93,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,3336
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,45,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,a,NULL,1778
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,76,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,2454
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,83,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,5209
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,50,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,1962
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,44,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,1468
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,36,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,a,NULL,2750
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,34,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,a,NULL,1368
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,85,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,640
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,63,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,1321
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,23,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,r,NULL,775
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,9,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,r,NULL,1346
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,48,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 crosses are below the line.,a,NULL,1761
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,77,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,1959
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,58,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,2994
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,95,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1985
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,10,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are red.,a,NULL,701
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,57,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,761
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,27,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,1519
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,98,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,690
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,15,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,1064
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,26,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,1198
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,74,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,1247
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,96,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,1291
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,61,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,591
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,65,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1306
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,90,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,3304
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,12,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,1008
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,78,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,1900
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,97,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,787
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,80,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1012
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,86,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,a,NULL,731
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,55,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are red.,r,NULL,1082
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,30,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,a,NULL,1889
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,29,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,929
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,79,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,743
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,89,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,2352
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,64,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,1193
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,35,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,832
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,67,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,1003
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,14,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,596
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,8,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,690
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,47,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,1510
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,59,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,2196
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,88,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,2987
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,72,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,976
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,68,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,894
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,7,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,747
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,16,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,1075
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,13,1,2_DC_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,r,NULL,963
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,84,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,4701
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,4,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,1264
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,43,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,1483
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,24,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,10375
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,38,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,6544
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,52,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,7064
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,37,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1120
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,81,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,7325
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,40,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,4657
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,82,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,16937
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,91,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are blue.,a,NULL,1568
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,60,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,2684
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,5,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,625
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,70,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,883
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,33,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,856
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,51,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,1242
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,25,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,916
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,46,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,1372
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,6,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are blue.,a,NULL,847
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,31,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are red.,a,NULL,599
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,41,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,1039
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,62,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,900
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,42,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,643
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,66,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,1626
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,94,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,6972
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,39,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,a,NULL,28870
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,54,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,1787
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,21,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,r,NULL,714
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,11,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,r,NULL,586
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,92,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,715
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,22,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,5379
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,18,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,2812
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,32,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,739
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,49,1,2_DC_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,836
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,75,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,16275
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,28,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,a,NULL,947
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,20,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are green.,r,NULL,1283
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,69,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,882
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,17,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,492
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,NewForm,99,0,quest,NULL,year,1988
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,NewForm,99,0,quest,NULL,language,spanish
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,NewForm,99,0,quest,NULL,idturk,xxx
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,NewForm,99,0,quest,NULL,comment,trying
+1447280137,0a96870b2b49f264cc4fd2d7034a51db,NewForm,99,0,quest,NULL,sex,female
+#
+# Results on Saturday November 14 2015 18:59:52 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+# Design number was non-random = 3
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447527593,822c482cbbcda30bda0ebc7a995227ec,NewForm,0,0,agreement,NULL,,yes
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,1971
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,26,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,1949
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,46,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,3562
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,47,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,1812
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,79,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are green.,a,NULL,2489
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,87,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,6664
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,98,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,1289
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,86,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1427
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,75,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,2831
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,77,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,1046
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,41,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,2894
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,15,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,4408
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,27,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,r,NULL,1977
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,49,1,2_DC_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,1499
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,55,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are red.,r,NULL,1233
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,57,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,3294
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,6,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are blue.,a,NULL,801
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,10,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are red.,a,NULL,1520
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,43,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,736
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,93,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,2032
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,34,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,a,NULL,3553
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,36,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,a,NULL,3018
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,85,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,1152
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,21,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,r,NULL,711
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,63,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,3244
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,4,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,465
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,45,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,a,NULL,1370
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,51,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,1751
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,81,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,3118
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,33,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,r,NULL,1054
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,83,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,1909
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,44,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,1981
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,54,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1777
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,35,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,1072
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,70,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,1066
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,25,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,790
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,40,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,1868
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,71,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,1057
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,5,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,469
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,66,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,805
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,31,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are red.,a,NULL,773
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,17,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,586
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,28,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,a,NULL,1083
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,30,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,a,NULL,731
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,91,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1616
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,48,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 crosses are below the line.,a,NULL,1032
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,8,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,1064
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,7,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,839
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,74,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,1543
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,13,1,2_DC_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,r,NULL,717
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,58,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,949
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,24,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,527
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,60,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1355
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,22,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,909
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,95,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,2227
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,39,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,a,NULL,1183
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,68,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,1646
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,42,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,1102
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,3,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,1602
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,65,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,1207
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,72,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,789
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,64,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,1846
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,53,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,987
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,20,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are green.,r,NULL,636
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,69,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,1607
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,19,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,571
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,88,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,2256
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,52,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1089
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,16,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,1309
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,76,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,2297
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,89,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,2941
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,62,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,801
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,50,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,621
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,11,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,r,NULL,805
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,37,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,821
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,92,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,842
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,9,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,r,NULL,758
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,94,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,1329
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,73,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,842
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,96,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,1759
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,80,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,1431
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,78,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,1763
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,38,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,740
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,84,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,893
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,56,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,893
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,14,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,542
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,90,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,1134
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,67,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,671
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,23,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,r,NULL,698
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,29,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,1371
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,32,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1588
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,61,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,1489
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,18,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,634
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,82,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,1663
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,12,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,565
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,59,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,1010
+1447527593,822c482cbbcda30bda0ebc7a995227ec,SubHtmlFlash,97,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,862
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447527593,822c482cbbcda30bda0ebc7a995227ec,NewForm,99,0,quest,NULL,year,1984
+1447527593,822c482cbbcda30bda0ebc7a995227ec,NewForm,99,0,quest,NULL,language,English
+1447527593,822c482cbbcda30bda0ebc7a995227ec,NewForm,99,0,quest,NULL,idturk,AK81F0NOBFJS3
+1447527593,822c482cbbcda30bda0ebc7a995227ec,NewForm,99,0,quest,NULL,comment,
+1447527593,822c482cbbcda30bda0ebc7a995227ec,NewForm,99,0,quest,NULL,sex,male
+#
+# Results on Saturday November 14 2015 19:02:18 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+# Design number was non-random = 3
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447527739,37ed28dc27c91da0e83503bf01a66062,NewForm,0,0,agreement,NULL,,yes
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,2,1,practice,NULL,Practice,True,NULL,1153
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,4,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,False,NULL,2060
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,50,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are red.,False,NULL,2147
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,68,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,True,NULL,3653
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,32,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,False,NULL,2621
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,86,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,False,NULL,2495
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,71,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,False,NULL,5962
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,26,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are red.,True,NULL,1928
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,16,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,False,NULL,1081
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,7,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,False,NULL,1403
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,52,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,False,NULL,4617
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,94,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,True,NULL,3192
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,66,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,False,NULL,3680
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,19,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,False,NULL,3196
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,29,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,False,NULL,3908
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,65,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,False,NULL,2658
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,67,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are green.,True,NULL,1970
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,60,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,False,NULL,1845
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,20,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are green.,True,NULL,941
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,73,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,True,NULL,1637
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,80,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,False,NULL,1977
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,15,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,True,NULL,1007
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,9,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,True,NULL,1270
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,63,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,False,NULL,2324
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,28,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,False,NULL,2620
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,53,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,False,NULL,2007
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,31,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are red.,False,NULL,1285
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,78,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,True,NULL,4794
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,69,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,False,NULL,2587
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,97,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,False,NULL,1301
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,33,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,False,NULL,2240
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,39,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,False,NULL,5022
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,45,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,False,NULL,1736
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,83,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,True,NULL,3191
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,72,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,False,NULL,1875
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,92,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,False,NULL,1727
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,55,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are red.,True,NULL,3033
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,10,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are red.,False,NULL,1537
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,23,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,True,NULL,1203
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,38,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,False,NULL,1451
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,21,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,True,NULL,1449
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,96,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,True,NULL,3556
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,79,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are green.,False,NULL,1162
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,43,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are red.,False,NULL,1266
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,27,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,False,NULL,2572
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,64,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,False,NULL,2689
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,51,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,False,NULL,1695
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,3,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,True,NULL,793
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,62,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,True,NULL,1868
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,24,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,False,NULL,2135
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,49,1,2_DC_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,True,NULL,1644
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,42,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,False,NULL,4090
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,90,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,True,NULL,2704
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,40,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,False,NULL,2288
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,36,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,False,NULL,1632
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,75,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,True,NULL,3070
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,34,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,False,NULL,5767
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,56,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,True,NULL,2345
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,13,1,2_DC_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,True,NULL,2058
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,35,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,False,NULL,2976
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,88,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,True,NULL,3201
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,58,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,False,NULL,2011
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,41,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,False,NULL,2085
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,93,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,True,NULL,3282
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,5,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,True,NULL,1662
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,25,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are green.,False,NULL,1940
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,59,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,False,NULL,2592
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,6,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are blue.,False,NULL,1824
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,77,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,True,NULL,2902
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,47,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,False,NULL,4643
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,46,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,False,NULL,1092
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,18,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,False,NULL,954
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,89,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,True,NULL,1477
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,85,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,False,NULL,1769
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,61,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,True,NULL,1304
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,17,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,True,NULL,868
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,98,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,False,NULL,1266
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,11,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,True,NULL,1742
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,44,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are red.,True,NULL,1260
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,95,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,True,NULL,2360
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,81,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,True,NULL,1882
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,22,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,False,NULL,1361
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,74,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are red.,True,NULL,1982
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,91,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are blue.,False,NULL,1095
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,84,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,True,NULL,3472
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,54,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,False,NULL,1352
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,30,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,False,NULL,1816
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,8,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,False,NULL,1477
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,37,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,True,NULL,883
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,48,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 crosses are below the line.,False,NULL,2891
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,12,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,False,NULL,1276
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,76,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,True,NULL,5055
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,70,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,False,NULL,957
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,82,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,True,NULL,2501
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,87,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,True,NULL,1488
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,14,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,False,NULL,855
+1447527739,37ed28dc27c91da0e83503bf01a66062,SubHtmlFlash,57,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,False,NULL,1179
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447527739,37ed28dc27c91da0e83503bf01a66062,NewForm,99,0,quest,NULL,year,1987
+1447527739,37ed28dc27c91da0e83503bf01a66062,NewForm,99,0,quest,NULL,language,English
+1447527739,37ed28dc27c91da0e83503bf01a66062,NewForm,99,0,quest,NULL,idturk,AK3H5QRAROFGP
+1447527739,37ed28dc27c91da0e83503bf01a66062,NewForm,99,0,quest,NULL,comment,I believe the experiment was about processing of language
+1447527739,37ed28dc27c91da0e83503bf01a66062,NewForm,99,0,quest,NULL,sex,male
+#
+# Results on Saturday November 14 2015 19:02:33 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+# Design number was non-random = 3
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,NewForm,0,0,agreement,NULL,,yes
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,2,1,practice,NULL,Practice,True,NULL,1366
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,78,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,True,NULL,9738
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,6,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are blue.,False,NULL,2038
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,53,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,False,NULL,1382
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,70,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,False,NULL,1550
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,26,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are red.,True,NULL,1570
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,58,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,False,NULL,1914
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,31,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are red.,False,NULL,1243
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,51,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,False,NULL,1840
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,44,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are red.,True,NULL,1001
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,67,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are green.,True,NULL,1466
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,7,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,False,NULL,1369
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,88,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,True,NULL,3423
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,10,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are red.,False,NULL,1092
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,57,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,False,NULL,1780
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,49,1,2_DC_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,True,NULL,1722
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,15,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,True,NULL,1797
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,46,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,False,NULL,6983
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,80,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,False,NULL,1141
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,84,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,True,NULL,2439
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,9,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,True,NULL,1141
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,94,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,True,NULL,24407
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,63,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,False,NULL,1334
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,87,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,True,NULL,2374
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,72,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,False,NULL,1273
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,82,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,True,NULL,1580
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,86,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,False,NULL,798
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,97,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,False,NULL,1071
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,14,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,False,NULL,1022
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,64,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,False,NULL,1374
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,96,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,True,NULL,1854
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,22,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,False,NULL,845
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,59,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,False,NULL,1637
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,68,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,False,NULL,1339
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,43,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are red.,False,NULL,2100
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,35,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,False,NULL,1364
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,39,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,False,NULL,2110
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,5,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,True,NULL,964
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,32,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,False,NULL,1294
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,75,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,True,NULL,1431
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,41,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,False,NULL,1303
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,85,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,False,NULL,1169
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,20,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are green.,True,NULL,1536
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,50,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are red.,False,NULL,1007
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,34,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,False,NULL,957
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,37,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,True,NULL,2272
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,42,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,False,NULL,1661
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,98,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,False,NULL,1015
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,45,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,False,NULL,997
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,61,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,True,NULL,1264
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,11,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,True,NULL,716
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,17,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,True,NULL,823
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,40,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,False,NULL,1304
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,18,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,False,NULL,1286
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,92,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,False,NULL,1040
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,24,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,False,NULL,1149
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,54,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,False,NULL,2046
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,89,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,True,NULL,2398
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,69,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,False,NULL,1134
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,25,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are green.,False,NULL,1469
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,62,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,True,NULL,1175
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,8,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,False,NULL,1118
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,16,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,False,NULL,1253
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,29,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,False,NULL,2942
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,56,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,True,NULL,1571
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,23,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,True,NULL,862
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,60,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,False,NULL,1302
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,12,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,False,NULL,1150
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,83,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,True,NULL,1308
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,95,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,True,NULL,2087
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,90,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,True,NULL,1332
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,81,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,True,NULL,948
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,48,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 crosses are below the line.,False,NULL,752
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,76,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,True,NULL,4183
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,93,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,True,NULL,860
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,36,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,False,NULL,1087
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,30,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,False,NULL,565
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,65,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,False,NULL,1430
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,52,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,False,NULL,1966
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,33,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,False,NULL,2149
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,38,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,False,NULL,1557
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,66,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,False,NULL,1221
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,13,1,2_DC_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,True,NULL,1787
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,79,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are green.,False,NULL,946
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,27,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,False,NULL,565
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,3,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,True,NULL,1419
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,28,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,False,NULL,1237
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,19,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,False,NULL,590
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,91,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are blue.,False,NULL,733
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,21,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,True,NULL,717
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,73,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,True,NULL,839
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,74,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are red.,True,NULL,669
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,4,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,False,NULL,894
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,55,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are red.,True,NULL,927
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,77,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,True,NULL,2070
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,47,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,False,NULL,1580
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,SubHtmlFlash,71,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,False,NULL,902
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,NewForm,99,0,quest,NULL,year,1990
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,NewForm,99,0,quest,NULL,language,English
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,NewForm,99,0,quest,NULL,idturk,A19TL7AJ0FB1JG
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,NewForm,99,0,quest,NULL,comment,
+1447527753,6ac3edd568b8ada1b4366cb2a7ea8578,NewForm,99,0,quest,NULL,sex,female
+#
+# Results on Saturday November 14 2015 19:12:40 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+# Design number was non-random = 6
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,NewForm,0,0,agreement,NULL,,yes
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,1567
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,86,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,a,NULL,2618
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,44,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,5670
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,72,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,10044
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,35,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,r,NULL,6456
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,80,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,2257
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,79,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are green.,a,NULL,1493
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,97,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,5569
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,27,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,r,NULL,1265
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,3,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,2915
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,17,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,1641
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,82,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,4217
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,47,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,5735
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,71,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,4627
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,66,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,4861
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,10,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are red.,a,NULL,1239
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,43,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,1027
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,49,1,2_DC_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,1358
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,48,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 crosses are below the line.,a,NULL,2601
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,77,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,3820
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,54,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,3552
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,92,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,1095
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,37,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1033
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,94,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,2789
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,22,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,3504
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,41,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,2231
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,28,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,a,NULL,3454
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,18,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,6199
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,67,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,2539
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,63,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,2214
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,58,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,2982
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,64,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,1100
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,93,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1714
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,9,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,r,NULL,2724
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,69,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,5490
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,32,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,2574
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,65,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,5826
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,12,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,1409
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,57,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,2576
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,24,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,1966
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,16,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,4658
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,20,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are green.,r,NULL,950
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,25,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,887
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,14,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1082
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,59,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,3538
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,11,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,r,NULL,1004
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,87,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,3830
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,89,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,3651
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,31,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are red.,a,NULL,1073
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,55,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are red.,r,NULL,1189
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,7,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,932
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,74,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,803
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,61,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,2041
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,13,1,2_DC_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,r,NULL,1745
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,95,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,9049
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,81,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,3419
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,83,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,3347
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,91,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are blue.,a,NULL,1038
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,23,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,r,NULL,1623
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,75,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,3463
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,56,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,1116
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,4,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,1098
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,73,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,3055
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,29,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,2239
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,90,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,4148
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,15,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,2294
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,70,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,3454
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,96,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,4417
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,5,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,1143
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,36,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,a,NULL,1781
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,84,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,7415
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,19,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,8105
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,88,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,15535
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,38,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,2176
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,50,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,2279
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,8,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,1331
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,68,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,970
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,30,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,a,NULL,1024
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,45,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,a,NULL,2723
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,6,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are blue.,a,NULL,884
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,62,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,1075
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,42,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,1623
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,39,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,a,NULL,2349
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,78,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,5793
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,51,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,3708
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,53,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,4258
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,52,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1794
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,85,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,788
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,21,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,r,NULL,2793
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,26,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,891
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,34,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,a,NULL,2595
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,76,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,1931
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,60,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1584
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,33,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,3135
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,40,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,7536
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,98,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,895
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,SubHtmlFlash,46,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,9629
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,NewForm,99,0,quest,NULL,year,1987
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,NewForm,99,0,quest,NULL,language,English
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,NewForm,99,0,quest,NULL,idturk,A29HUSCMP9TKWW
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,NewForm,99,0,quest,NULL,comment,I really liked the experiment and the t/f hotkeys%2C
+1447528360,ac2c0775c2f3e3f1fb07c6a5e26e8978,NewForm,99,0,quest,NULL,sex,male
+#
+# Results on Saturday November 14 2015 20:03:34 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+# Design number was non-random = 7
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,NewForm,0,0,agreement,NULL,,yes
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,1413
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,25,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,3385
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,7,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,1216
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,18,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,1114
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,50,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,782
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,95,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1846
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,40,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,1667
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,81,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,3921
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,60,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1493
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,15,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,1235
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,3,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,970
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,80,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,1108
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,27,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,1250
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,46,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,1597
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,12,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,1325
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,59,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,1323
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,83,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,1300
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,36,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,a,NULL,1587
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,42,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 crosses are above the line.,a,NULL,1554
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,11,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,r,NULL,1343
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,29,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,1323
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,33,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,539
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,20,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are green.,r,NULL,1318
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,69,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,1932
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,28,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 dots are below the line.,a,NULL,1264
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,70,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,3005
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,17,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are green.,r,NULL,3233
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,35,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 dots are below the line.,a,NULL,3146
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,73,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1993
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,74,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,1283
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,56,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,4099
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,98,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,2986
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,75,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,3612
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,26,1,2_DC_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,2401
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,72,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,a,NULL,1696
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,58,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,2283
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,49,1,2_DC_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,2140
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,54,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,1141
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,4,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are green.,a,NULL,1770
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,88,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,1474
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,90,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,2933
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,37,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,2418
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,21,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,r,NULL,3219
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,9,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are green.,True,NULL,3506
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,30,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,False,NULL,1476
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,92,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,1926
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,16,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,False,NULL,1978
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,85,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,False,NULL,2216
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,41,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,False,NULL,3371
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,53,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,False,NULL,2793
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,14,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,False,NULL,1965
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,97,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are green.,False,NULL,6391
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,39,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,False,NULL,1693
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,45,1,2_DC_Target2_Target_C_Distributive_4-8_are below the line,NULL,Between 4 and 8 crosses are below the line.,False,NULL,3355
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,10,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are red.,False,NULL,2540
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,32,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,False,NULL,1388
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,34,1,2_DC_Target2_Target_C_Distributive_5-9_are above the line,NULL,Between 5 and 9 dots are above the line.,False,NULL,1640
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,68,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,True,NULL,1964
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,31,1,2_DC_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are red.,False,NULL,2906
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,43,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are red.,False,NULL,1784
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,55,1,2_DC_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are red.,True,NULL,1964
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,13,1,2_DC_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,True,NULL,1268
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,8,1,2_DC_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are blue.,False,NULL,1662
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,71,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,False,NULL,1953
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,78,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,2294
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,86,1,2_DC_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1738
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,23,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some crosses are red.,a,NULL,1890
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,96,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,2335
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,94,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,3820
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,62,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,1898
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,57,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,1671
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,91,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some crosses are blue.,a,NULL,786
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,5,1,2_DC_Target1_True_D_Baseline_4-8_are,NULL,Some dots are red.,r,NULL,1587
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,65,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,1473
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,87,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1652
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,22,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,6247
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,44,1,2_DC_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,2272
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,84,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,3174
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,82,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,4241
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,61,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,1384
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,66,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,5351
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,77,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,r,NULL,2026
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,52,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,a,NULL,2923
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,38,1,2_DC_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,1046
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,48,1,2_DC_Target2_Target_C_Distributive_5-9_are below the line,NULL,Between 5 and 9 crosses are below the line.,a,NULL,915
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,64,1,2_DC_Env-F_False_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 crosses are connected to the letter.,r,NULL,1072
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,89,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,5455
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,24,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some crosses are blue.,a,NULL,558
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,76,1,2_DC_Env-T_True_D_Distributive_5-9_are connected to the letter,NULL,Between 5 and 9 dots are connected to the letter.,r,NULL,1776
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,51,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 dots are connected to the letter.,a,NULL,5411
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,67,1,2_DC_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,5188
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,63,1,2_DC_Env-F_False_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,a,NULL,4303
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,93,1,2_DC_Env-T_True_D_Distributive_6-10_are connected to the letter,NULL,Between 6 and 10 crosses are connected to the letter.,r,NULL,1250
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,47,1,2_DC_Target2_Target_C_Distributive_4-8_are above the line,NULL,Between 4 and 8 crosses are above the line.,a,NULL,1068
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,6,1,2_DC_Target1_False_D_Baseline_5-9_are,NULL,Some dots are blue.,a,NULL,752
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,79,1,2_DC_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are green.,a,NULL,1183
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,SubHtmlFlash,19,1,2_DC_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,559
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,NewForm,99,0,quest,NULL,year,1985
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,NewForm,99,0,quest,NULL,language,English
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,NewForm,99,0,quest,NULL,idturk,A2S3MXU8T2I5H0
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,NewForm,99,0,quest,NULL,comment,
+1447531415,f68f3e27d2043eda02d66cc2cfbe2fbc,NewForm,99,0,quest,NULL,sex,male

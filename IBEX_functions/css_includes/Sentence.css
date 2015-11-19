@@ -1,0 +1,12 @@
+.sentence {
+    font-size: 1.5em;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 260px ;
+    font-family:  'Bitter',serif;
+  
+}
+
+.other{ text-decoration: none; color: blue; }
+.other:hover { text-decoration: underline; color: blue; }
+.other:visited { color: blue; }

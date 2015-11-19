@@ -1,0 +1,77 @@
+.Question {
+    margin-left: 0;
+    padding-left: 0;
+}
+.question-text {
+  font-size: 1.4em;
+  font-family:   "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-style: italic;
+}
+
+.instructions-text {
+    font-style: italic;
+    clear: left;
+    padding-top: 1em;
+    font-size: small;
+  
+}
+li.normal-answer {
+    text-align: left;
+    cursor: pointer;
+    font-size: 1.2em;
+    padding-bottom: 1em;
+    color: #6496c8;
+    font-family:  "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  }
+li:hover.normal-answer {
+    cursor: pointer;
+    color: #6496c8;
+  
+}
+li.scale-box {
+    float: left;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 1em;
+    padding-right: 0;
+    border: solid 3px #08396d;
+    width: 8em;
+    height: 2em;
+    padding-top: 0.5em;
+    text-align: center;
+    font-family:  'Bitter',serif;
+    font-size: 1.2em;
+}
+.scale-comment-box {
+    float: left;
+    list-style: none;
+    margin-left: 0em;
+    padding-left: 0;
+    margin-right: 1em;
+    padding-right: 0;
+    padding-top: 0.5em;
+    text-align: center;
+    color: #08396d;
+    font-family:   "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+li.scale-box a {
+    text-decoration: none;
+    display: block;
+    color: #08396d;
+    vertical-align: middle;
+}
+li.scale-box a:hover {
+    text-decoration: none;
+    display: block;
+    vertical-align: middle;
+    color: #08396d;
+}
+span.fake-link {
+    color: #08396d;
+    cursor: pointer;
+}
+span:hover.fake-link {
+    cursor: pointer;
+    color: #08396d;
+}

@@ -1,0 +1,194 @@
+#
+# Results on Monday November 02 2015 09:56:55 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,NewForm,0,0,agreement,NULL,,yes
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,NewForm,0,0,agreement,NULL,_REACTION_TIME_,75309
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,2,1,practice,NULL,Practice,True,NULL,1460
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,50,1,Target2_Target_A_Distributive,NULL,Target2_Target_A_Distributive,False,NULL,5454
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,8,1,Filler-Target1_True_B_Baseline,NULL,Filler-Target1_True_B_Baseline,r,NULL,48128
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,15,1,Env-F_False_A_Collective,NULL,Env-F_False_A_Collective,a,NULL,2380
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,18,1,Filler-Env-F_True_B_Baseline,NULL,Filler-Env-F_True_B_Baseline,r,NULL,1992
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,54,1,Env-T_True_B_Distributive,NULL,Env-T_True_B_Distributive,r,NULL,9027
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,31,1,Filler-Target2_True_B_Baseline,NULL,Filler-Target2_True_B_Baseline,r,NULL,2449
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,26,1,Target1_True_B_Baseline,NULL,Target1_True_B_Baseline,r,NULL,7781
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,5,1,Filler-Target1_True_A_Baseline,NULL,Filler-Target1_True_A_Baseline,r,NULL,1267
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,52,1,Env-F_False_B_Distributive,NULL,Env-F_False_B_Distributive,a,NULL,2402
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,14,1,Filler-Target2_False_A_Baseline,NULL,Filler-Target2_False_A_Baseline,a,NULL,3611
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,46,1,Env-T_True_A_Distributive,NULL,Env-T_True_A_Distributive,r,NULL,7959
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,53,1,Env-T_True_B_Distributive,NULL,Env-T_True_B_Distributive,r,NULL,1231
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,40,1,Target2_Target_B_Distributive,NULL,Target2_Target_B_Distributive,a,NULL,22048
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,37,1,Filler-Env-T_False_A_Baseline,NULL,Filler-Env-T_False_A_Baseline,a,NULL,1066
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,24,1,Env-T_True_A_Collective,NULL,Env-T_True_A_Collective,r,NULL,3407
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,30,1,Target2_Target_A_Collective,NULL,Target2_Target_A_Collective,r,NULL,13390
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,19,1,Env-T_True_A_Collective,NULL,Env-T_True_A_Collective,r,NULL,2047
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,39,1,Target2_Target_B_Distributive,NULL,Target2_Target_B_Distributive,a,NULL,4166
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,25,1,Target1_False_B_Baseline,NULL,Target1_False_B_Baseline,a,NULL,1868
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,22,1,Filler-Env-T_False_A_Baseline,NULL,Filler-Env-T_False_A_Baseline,a,NULL,1567
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,28,1,Filler-Target1_False_B_Baseline,NULL,Filler-Target1_False_B_Baseline,a,NULL,1243
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,12,1,Target2_Target_B_Collective,NULL,Target2_Target_B_Collective,r,NULL,2620
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,4,1,Target1_True_A_Baseline,NULL,Target1_True_A_Baseline,r,NULL,3062
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,20,1,Env-T_True_A_Collective,NULL,Env-T_True_A_Collective,r,NULL,2648
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,3,1,Target1_False_A_Baseline,NULL,Target1_False_A_Baseline,a,NULL,1268
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,7,1,Filler-Target1_False_B_Baseline,NULL,Filler-Target1_False_B_Baseline,a,NULL,964
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,45,1,Env-T_True_A_Distributive,NULL,Env-T_True_A_Distributive,r,NULL,2493
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,51,1,Env-F_False_B_Distributive,NULL,Env-F_False_B_Distributive,a,NULL,3701
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,21,1,Filler-Env-T_False_A_Baseline,NULL,Filler-Env-T_False_A_Baseline,a,NULL,1814
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,29,1,Target2_Target_A_Collective,NULL,Target2_Target_A_Collective,r,NULL,2399
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,17,1,Filler-Env-F_True_B_Baseline,NULL,Filler-Env-F_True_B_Baseline,r,NULL,1591
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,36,1,Env-T_True_B_Collective,NULL,Env-T_True_B_Collective,r,NULL,9717
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,48,1,Env-T_True_A_Distributive,NULL,Env-T_True_A_Distributive,r,NULL,2198
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,42,1,Target2_Target_B_Distributive,NULL,Target2_Target_B_Distributive,a,NULL,4118
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,34,1,Env-F_False_B_Collective,NULL,Env-F_False_B_Collective,a,NULL,2752
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,47,1,Env-T_True_A_Distributive,NULL,Env-T_True_A_Distributive,r,NULL,2101
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,43,1,Env-F_False_A_Distributive,NULL,Env-F_False_A_Distributive,a,NULL,2051
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,10,1,Target1_True_A_Baseline,NULL,Target1_True_A_Baseline,r,NULL,4591
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,41,1,Target2_Target_B_Distributive,NULL,Target2_Target_B_Distributive,a,NULL,1629
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,11,1,Target2_Target_B_Collective,NULL,Target2_Target_B_Collective,a,NULL,5766
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,13,1,Filler-Target2_False_A_Baseline,NULL,Filler-Target2_False_A_Baseline,a,NULL,739
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,6,1,Filler-Target1_True_A_Baseline,NULL,Filler-Target1_True_A_Baseline,r,NULL,1342
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,9,1,Target1_False_A_Baseline,NULL,Target1_False_A_Baseline,a,NULL,2191
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,23,1,Env-T_True_A_Collective,NULL,Env-T_True_A_Collective,r,NULL,4038
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,32,1,Filler-Target2_False_B_Baseline,NULL,Filler-Target2_False_B_Baseline,a,NULL,774
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,35,1,Env-T_True_B_Collective,NULL,Env-T_True_B_Collective,r,NULL,4727
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,44,1,Env-F_False_A_Distributive,NULL,Env-F_False_A_Distributive,a,NULL,6094
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,27,1,Filler-Target1_False_B_Baseline,NULL,Filler-Target1_False_B_Baseline,r,NULL,5757
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,38,1,Filler-Env-T_False_A_Baseline,NULL,Filler-Env-T_False_A_Baseline,a,NULL,990
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,33,1,Env-F_False_B_Collective,NULL,Env-F_False_B_Collective,a,NULL,1415
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,49,1,Target2_Target_A_Distributive,NULL,Target2_Target_A_Distributive,r,NULL,1079
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,SubHtmlFlash,16,1,Env-F_False_A_Collective,NULL,Env-F_False_A_Collective,a,NULL,1883
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,NewForm,55,0,quest,NULL,language,Spanish
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,NewForm,55,0,quest,NULL,idturk,XXXX
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,NewForm,55,0,quest,NULL,comment,trying
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,NewForm,55,0,quest,NULL,sex,female
+1446458216,0a96870b2b49f264cc4fd2d7034a51db,NewForm,55,0,quest,NULL,_REACTION_TIME_,20601
+#
+# Results on Monday November 02 2015 16:55:44 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1446483345,b772c5ecc78143107530bc7bbbb3205e,NewForm,0,0,agreement,NULL,,yes
+1446483345,b772c5ecc78143107530bc7bbbb3205e,NewForm,0,0,agreement,NULL,_REACTION_TIME_,9114
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,914
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,46,1,Env-T_True_A_Distributive,NULL,Env-T_True_A_Distributive,r,NULL,2541
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,14,1,Filler-Target2_False_A_Baseline,NULL,Filler-Target2_False_A_Baseline,a,NULL,4411
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,34,1,Env-F_False_B_Collective,NULL,Env-F_False_B_Collective,a,NULL,1526
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,19,1,Env-T_True_A_Collective,NULL,Env-T_True_A_Collective,r,NULL,1372
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,42,1,Target2_Target_B_Distributive,NULL,Target2_Target_B_Distributive,a,NULL,2320
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,7,1,Filler-Target1_False_B_Baseline,NULL,Filler-Target1_False_B_Baseline,a,NULL,1101
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,4,1,Target1_True_A_Baseline,NULL,Target1_True_A_Baseline,r,NULL,1927
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,12,1,Target2_Target_B_Collective,NULL,Target2_Target_B_Collective,r,NULL,2518
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,47,1,Env-T_True_A_Distributive,NULL,Env-T_True_A_Distributive,r,NULL,5909
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,17,1,Filler-Env-F_True_B_Baseline,NULL,Filler-Env-F_True_B_Baseline,a,NULL,574
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,53,1,Env-T_True_B_Distributive,NULL,Env-T_True_B_Distributive,r,NULL,3067
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,25,1,Target1_False_B_Baseline,NULL,Target1_False_B_Baseline,a,NULL,1140
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,54,1,Env-T_True_B_Distributive,NULL,Env-T_True_B_Distributive,r,NULL,2124
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,26,1,Target1_True_B_Baseline,NULL,Target1_True_B_Baseline,r,NULL,3360
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,3,1,Target1_False_A_Baseline,NULL,Target1_False_A_Baseline,a,NULL,2399
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,6,1,Filler-Target1_True_A_Baseline,NULL,Filler-Target1_True_A_Baseline,r,NULL,2478
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,24,1,Env-T_True_A_Collective,NULL,Env-T_True_A_Collective,r,NULL,3824
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,20,1,Env-T_True_A_Collective,NULL,Env-T_True_A_Collective,r,NULL,3057
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,45,1,Env-T_True_A_Distributive,NULL,Env-T_True_A_Distributive,r,NULL,3190
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,48,1,Env-T_True_A_Distributive,NULL,Env-T_True_A_Distributive,r,NULL,4626
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,49,1,Target2_Target_A_Distributive,NULL,Target2_Target_A_Distributive,r,NULL,3047
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,22,1,Filler-Env-T_False_A_Baseline,NULL,Filler-Env-T_False_A_Baseline,r,NULL,2092
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,18,1,Filler-Env-F_True_B_Baseline,NULL,Filler-Env-F_True_B_Baseline,r,NULL,6473
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,13,1,Filler-Target2_False_A_Baseline,NULL,Filler-Target2_False_A_Baseline,a,NULL,4656
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,37,1,Filler-Env-T_False_A_Baseline,NULL,Filler-Env-T_False_A_Baseline,a,NULL,4051
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,15,1,Env-F_False_A_Collective,NULL,Env-F_False_A_Collective,a,NULL,2973
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,5,1,Filler-Target1_True_A_Baseline,NULL,Filler-Target1_True_A_Baseline,r,NULL,1088
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,50,1,Target2_Target_A_Distributive,NULL,Target2_Target_A_Distributive,a,NULL,3258
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,32,1,Filler-Target2_False_B_Baseline,NULL,Filler-Target2_False_B_Baseline,r,NULL,1584
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,9,1,Target1_False_A_Baseline,NULL,Target1_False_A_Baseline,a,NULL,3049
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,40,1,Target2_Target_B_Distributive,NULL,Target2_Target_B_Distributive,a,NULL,1432
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,23,1,Env-T_True_A_Collective,NULL,Env-T_True_A_Collective,r,NULL,10409
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,39,1,Target2_Target_B_Distributive,NULL,Target2_Target_B_Distributive,a,NULL,2589
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,35,1,Env-T_True_B_Collective,NULL,Env-T_True_B_Collective,r,NULL,1624
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,44,1,Env-F_False_A_Distributive,NULL,Env-F_False_A_Distributive,a,NULL,2922
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,8,1,Filler-Target1_True_B_Baseline,NULL,Filler-Target1_True_B_Baseline,r,NULL,1261
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,51,1,Env-F_False_B_Distributive,NULL,Env-F_False_B_Distributive,a,NULL,1659
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,41,1,Target2_Target_B_Distributive,NULL,Target2_Target_B_Distributive,a,NULL,2412
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,16,1,Env-F_False_A_Collective,NULL,Env-F_False_A_Collective,a,NULL,6404
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,36,1,Env-T_True_B_Collective,NULL,Env-T_True_B_Collective,r,NULL,1284
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,27,1,Filler-Target1_False_B_Baseline,NULL,Filler-Target1_False_B_Baseline,a,NULL,1416
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,11,1,Target2_Target_B_Collective,NULL,Target2_Target_B_Collective,r,NULL,2777
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,43,1,Env-F_False_A_Distributive,NULL,Env-F_False_A_Distributive,r,NULL,5532
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,29,1,Target2_Target_A_Collective,NULL,Target2_Target_A_Collective,r,NULL,13280
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,21,1,Filler-Env-T_False_A_Baseline,NULL,Filler-Env-T_False_A_Baseline,a,NULL,1246
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,38,1,Filler-Env-T_False_A_Baseline,NULL,Filler-Env-T_False_A_Baseline,a,NULL,4425
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,31,1,Filler-Target2_True_B_Baseline,NULL,Filler-Target2_True_B_Baseline,r,NULL,1072
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,10,1,Target1_True_A_Baseline,NULL,Target1_True_A_Baseline,r,NULL,1598
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,33,1,Env-F_False_B_Collective,NULL,Env-F_False_B_Collective,a,NULL,1723
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,28,1,Filler-Target1_False_B_Baseline,NULL,Filler-Target1_False_B_Baseline,a,NULL,1502
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,30,1,Target2_Target_A_Collective,NULL,Target2_Target_A_Collective,r,NULL,3034
+1446483345,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,52,1,Env-F_False_B_Distributive,NULL,Env-F_False_B_Distributive,a,NULL,1110
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1446483345,b772c5ecc78143107530bc7bbbb3205e,NewForm,55,0,quest,NULL,language,Spanish
+1446483345,b772c5ecc78143107530bc7bbbb3205e,NewForm,55,0,quest,NULL,idturk,XXXX
+1446483345,b772c5ecc78143107530bc7bbbb3205e,NewForm,55,0,quest,NULL,comment,try
+1446483345,b772c5ecc78143107530bc7bbbb3205e,NewForm,55,0,quest,NULL,sex,female
+1446483345,b772c5ecc78143107530bc7bbbb3205e,NewForm,55,0,quest,NULL,_REACTION_TIME_,18319

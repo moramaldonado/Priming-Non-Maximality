@@ -1,0 +1,96 @@
+Target1 , The dots are red. , Target_A_dots_red_triangle_below_.png , True , 4-8
+Target1 , The dots are green. , Target_A_dots_red_square_below_.png , False , 5-9
+Target1 , The dots are red. , Target_A_dots_red_triangle_above_.png , True , 4-8
+Target1 , The dots are red. , Target_A_dots_green_square_below_.png , False , 5-9
+Filler-Target1 , All letters are red. , Target_B_dots_red_.png , True , X-X
+Filler-Target1 , All letters are red. , Target_B_dots_red_.png , False , X-X
+Target1 , The dots are blue. , Target_A_dots_blue_triangle_below_.png , True , 4-8
+Target1 , The dots are green. , Target_A_dots_red_square_below_.png , False , 5-9
+Target1 , The dots are blue. , Target_A_dots_blue_triangle_below_.png , True , 4-8
+Target1 , The dots are red. , Target_A_dots_green_square_below_.png , False , 5-9
+Filler-Target1 , All dots are blue. , Target_A_dots_blue_triangle_above_.png , True , X-X
+Filler-Target1 , All dots are green. , Target_A_dots_blue_triangle_above_.png , True , X-X
+Target1 , The crosses are green. , Target_A_crosses_green_triangle_below_.png , True , 4-8
+Target1 , The crosses are red. , Target_A_crosses_blue_square_below_.png , False , 5-9
+Target1 , The crosses are red. , Target_A_crosses_red_triangle_above_.png , True , 4-8
+Target1 , The crosses are green. , Target_A_crosses_blue_square_above_.png , False , 5-9
+Filler-Target1 , All crosses are green. , Target_A_crosses_red_triangle_below_.png , False , X-X
+Filler-Target1 , All crosses are green. , Target_A_crosses_red_triangle_below_.png , False , X-X
+Target1 , The crosses are blue. , Target_A_crosses_blue_triangle_above_.png , True , 4-8
+Target1 , The crosses are red. , Target_A_crosses_blue_square_above_.png , False , 5-9
+Target1 , The crosses are green. , Target_A_crosses_green_triangle_below_.png , True , 4-8
+Target1 , The crosses are green. , Target_A_crosses_red_square_above_.png , False , 5-9
+Filler-Target1 , All letters are red. , Target_B_crosses_green_.png , False , X-X
+Filler-Target1 , All letters are red. , Target_B_crosses_green_.png , True , X-X
+Target2 , Between 6 and 10 dots are connected to their letter. , Target_B_dots_green_.png , Target , 6-10
+Target2 , Between 5 and 9 dots are connected to their letter. , Target_B_dots_red_.png , Target , 5-9
+Target2 , Between 6 and 10 dots are connected to their letter. , Target_B_dots_red_.png , Target , 6-10
+Target2 , Between 5 and 9 dots are connected to their letter. , Target_B_dots_red_.png , Target , 5-9
+Filler-Target2 , All dots are green. , Target_A_dots_red_triangle_above_.png , False , X-X
+Filler-Target2 , All dots are red. , Target_A_dots_red_triangle_above_.png , True , X-X
+Target2 , Between 6 and 10 dots are connected to their letter. , Target_B_dots_red_.png , Target , 6-10
+Target2 , Between 5 and 9 dots are connected to their letter. , Target_B_dots_blue_.png , Target , 5-9
+Target2 , Between 6 and 10 dots are connected to their letter. , Target_B_dots_green_.png , Target , 6-10
+Target2 , Between 5 and 9 dots are connected to their letter. , Target_B_dots_red_.png , Target , 5-9
+Filler-Target2 , All dots are green. , Target_A_dots_green_triangle_below_.png , True , X-X
+Filler-Target2 , All dots are green. , Target_A_dots_green_triangle_below_.png , False , X-X
+Target2 , Between 6 and 10 crosses are connected to their letter. , Target_B_crosses_red_.png , Target , 6-10
+Target2 , Between 5 and 9 crosses are connected to their letter. , Target_B_crosses_green_.png , Target , 5-9
+Target2 , Between 6 and 10 crosses are connected to their letter. , Target_B_crosses_blue_.png , Target , 6-10
+Target2 , Between 5 and 9 crosses are connected to their letter. , Target_B_crosses_green_.png , Target , 5-9
+Filler-Target2 , All letters are red. , Target_B_crosses_blue_.png , False , X-X
+Filler-Target2 , All letters are green. , Target_B_crosses_blue_.png , True , X-X
+Target2 , Between 6 and 10 crosses are connected to their letter. , Target_B_crosses_green_.png , Target , 6-10
+Target2 , Between 5 and 9 crosses are connected to their letter. , Target_B_crosses_red_.png , Target , 5-9
+Target2 , Between 6 and 10 crosses are connected to their letter. , Target_B_crosses_red_.png , Target , 6-10
+Target2 , Between 5 and 9 crosses are connected to their letter. , Target_B_crosses_blue_.png , Target , 5-9
+Filler-Target2 , All crosses are red. , Target_A_crosses_red_triangle_above_.png , True , X-X
+Filler-Target2 , All crosses are green. , Target_A_crosses_red_triangle_above_.png , False , X-X
+Env-F , Between 4 and 8 dots are below the line. , False_A_dots_green_triangle_below_.png , False , 4-8
+Env-F , Between 5 and 9 dots are above the line. , False_A_dots_green_square_above_.png , False , 5-9
+Env-F , Between 4 and 8 dots are below the line. , False_A_dots_green_triangle_below_.png , False , 4-8
+Env-F , Between 5 and 9 dots are below the line. , False_A_dots_red_square_below_.png , False , 5-9
+Filler-Env-F , Some letters are green. , False_B_dots_green_.png , True , X-X
+Filler-Env-F , Some letters are red. , False_B_dots_green_.png , True , X-X
+Env-F , Between 4 and 8 dots are above the line. , False_A_dots_blue_triangle_above_.png , False , 4-8
+Env-F , Between 5 and 9 dots are below the line. , False_A_dots_red_square_below_.png , False , 5-9
+Env-F , Between 4 and 8 dots are below the line. , False_A_dots_green_triangle_below_.png , False , 4-8
+Env-F , Between 5 and 9 dots are below the line. , False_A_dots_red_square_below_.png , False , 5-9
+Filler-Env-F , Some dots are green. , False_A_dots_green_triangle_below_.png , True , X-X
+Filler-Env-F , Some dots are red. , False_A_dots_green_triangle_below_.png , True , X-X
+Env-F , Between 4 and 8 crosses are below the line. , False_A_crosses_blue_triangle_below_.png , False , 4-8
+Env-F , Between 5 and 9 crosses are below the line. , False_A_crosses_blue_square_below_.png , False , 5-9
+Env-F , Between 4 and 8 crosses are below the line. , False_A_crosses_red_triangle_below_.png , False , 4-8
+Env-F , Between 5 and 9 crosses are above the line. , False_A_crosses_blue_square_above_.png , False , 5-9
+Filler-Env-F , Some letters are red. , False_B_crosses_red_.png , True , X-X
+Filler-Env-F , Some letters are blue. , False_B_crosses_red_.png , True , X-X
+Env-F , Between 4 and 8 crosses are above the line. , False_A_crosses_red_triangle_above_.png , False , 4-8
+Env-F , Between 5 and 9 crosses are above the line. , False_A_crosses_blue_square_above_.png , False , 5-9
+Env-F , Between 4 and 8 crosses are above the line. , False_A_crosses_red_triangle_above_.png , False , 4-8
+Env-F , Between 5 and 9 crosses are below the line. , False_A_crosses_red_square_below_.png , False , 5-9
+Filler-Env-F , Some crosses are red. , False_A_crosses_red_triangle_below_.png , True , X-X
+Filler-Env-F , Some crosses are red. , False_A_crosses_red_triangle_below_.png , True , X-X
+Env-T , Between 4 and 8 dots are below the line. , True_A_dots_red_triangle_below_.png , True , 4-8
+Env-T , Between 5 and 9 dots are below the line. , True_A_dots_blue_square_below_.png , True , 5-9
+Env-T , Between 4 and 8 dots are below the line. , True_A_dots_red_triangle_below_.png , True , 4-8
+Env-T , Between 5 and 9 dots are above the line. , True_A_dots_blue_square_above_.png , True , 5-9
+Filler-Env-T , Some dots are blue. , True_A_dots_red_triangle_above_.png , False , X-X
+Filler-Env-T , Some dots are green. , True_A_dots_red_triangle_above_.png , False , X-X
+Env-T , Between 4 and 8 dots are below the line. , True_A_dots_blue_triangle_below_.png , True , 4-8
+Env-T , Between 5 and 9 dots are below the line. , True_A_dots_red_square_below_.png , True , 5-9
+Env-T , Between 4 and 8 dots are below the line. , True_A_dots_blue_triangle_below_.png , True , 4-8
+Env-T , Between 5 and 9 dots are below the line. , True_A_dots_green_square_below_.png , True , 5-9
+Filler-Env-T , Some letters are green. , True_B_dots_blue_.png , False , X-X
+Filler-Env-T , Some letters are red. , True_B_dots_blue_.png , False , X-X
+Env-T , Between 4 and 8 crosses are above the line. , True_A_crosses_red_triangle_above_.png , True , 4-8
+Env-T , Between 5 and 9 crosses are below the line. , True_A_crosses_blue_square_below_.png , True , 5-9
+Env-T , Between 4 and 8 crosses are above the line. , True_A_crosses_red_triangle_above_.png , True , 4-8
+Env-T , Between 5 and 9 crosses are below the line. , True_A_crosses_blue_square_below_.png , True , 5-9
+Filler-Env-T , Some crosses are green. , True_A_crosses_red_triangle_above_.png , False , X-X
+Filler-Env-T , Some crosses are green. , True_A_crosses_red_triangle_above_.png , False , X-X
+Env-T , Between 4 and 8 crosses are above the line. , True_A_crosses_red_triangle_above_.png , True , 4-8
+Env-T , Between 5 and 9 crosses are below the line. , True_A_crosses_red_square_below_.png , True , 5-9
+Env-T , Between 4 and 8 crosses are above the line. , True_A_crosses_blue_triangle_above_.png , True , 4-8
+Env-T , Between 5 and 9 crosses are above the line. , True_A_crosses_blue_square_above_.png , True , 5-9
+Filler-Env-T , Some crosses are red. , True_A_crosses_blue_triangle_below_.png , False , X-X
+Filler-Env-T , Some crosses are red. , True_A_crosses_blue_triangle_below_.png , False , X-X

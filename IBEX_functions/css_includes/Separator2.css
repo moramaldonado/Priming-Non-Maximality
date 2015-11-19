@@ -1,0 +1,8 @@
+.next-item-failure-message {
+    color: red;
+}
+.next-item-message {
+  font-style: bold;
+  vertical-align: center;
+  font-family:  'Bitter',serif;    
+}

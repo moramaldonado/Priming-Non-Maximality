@@ -5,6 +5,7 @@ def display_img(path_in, image, screen, positions):
 
     os.chdir(path_in)
     img = pygame.image.load(image)
+    #img = pygame.transform.scale(img, (100, 100))
     img_size_x, img_size_y = img.get_size()
 
     img_pos_x = positions[0] - img_size_x/2

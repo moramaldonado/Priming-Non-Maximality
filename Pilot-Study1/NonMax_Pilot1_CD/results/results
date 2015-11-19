@@ -1,0 +1,1085 @@
+#
+# Results on Monday November 09 2015 11:37:39 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+# Design number was non-random = 0
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447069060,b772c5ecc78143107530bc7bbbb3205e,NewForm,0,0,agreement,NULL,,yes
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,2048
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,57,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,2613
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,71,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1167
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,38,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All dots are red.,r,NULL,1443
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,50,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,1660
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,3,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are red.,a,NULL,2035
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,86,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,1035
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,62,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are red.,r,NULL,2070
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,12,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are red.,a,NULL,2796
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,47,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,a,NULL,7501
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,11,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are red.,a,NULL,317882
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,88,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,4965
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,98,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,2164
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,30,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,7220
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,92,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,2252
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,67,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,1566
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,53,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,1875
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,18,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are red.,a,NULL,4414
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,56,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,1356
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,94,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1243
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,10,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are blue.,a,NULL,1562
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,54,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,2379
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,58,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,1366
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,21,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are blue.,a,NULL,1262
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,96,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,4173
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,87,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1436
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,7,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1812
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,97,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,1486
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,40,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,5013
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,52,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,8541
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,39,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,5523
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,59,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,11467
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,37,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are red.,a,NULL,939
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,22,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are blue.,a,NULL,846
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,33,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,2236
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,45,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,3205
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,32,1,1_CD_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,1380
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,51,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,1162
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,6,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are red.,a,NULL,1079
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,9,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are blue.,a,NULL,555
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,65,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1628
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,60,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,828
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,68,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,1476
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,25,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,1436
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,83,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,2109
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,15,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are blue.,a,NULL,1407
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,16,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are blue.,a,NULL,445
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,20,1,1_CD_Filler-Target1_True_C_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,933
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,90,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,2211
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,79,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are green.,a,NULL,979
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,23,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are green.,a,NULL,828
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,36,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,1629
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,64,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1365
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,34,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,a,NULL,3851
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,82,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1253
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,41,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,2614
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,29,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,766
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,24,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are green.,a,NULL,1052
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,28,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,10062
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,93,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,893
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,43,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,3109
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,17,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are red.,r,NULL,918
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,46,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,1431
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,74,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1660
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,8,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1523
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,89,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,3123
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,70,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1852
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,76,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1175
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,4,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are red.,a,NULL,636
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,44,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are red.,r,NULL,783
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,61,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are red.,r,NULL,1301
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,49,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,3460
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,14,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are red.,a,NULL,1123
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,66,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,2053
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,72,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,607
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,91,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,3219
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,27,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,1334
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,63,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1179
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,55,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,1148
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,35,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,2228
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,48,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,a,NULL,7174
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,42,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,2116
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,19,1,1_CD_Filler-Target1_True_C_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,851
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,13,1,1_CD_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are red.,r,NULL,864
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,84,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,827
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,75,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,647
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,73,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,760
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,5,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are red.,a,NULL,629
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,85,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,853
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,77,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1270
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,80,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,934
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,31,1,1_CD_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,1400
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,81,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,940
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,78,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1462
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,95,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1509
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,26,1,1_CD_Filler-Target1_True_C_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,5331
+1447069060,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,69,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,516
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447069060,b772c5ecc78143107530bc7bbbb3205e,NewForm,99,0,quest,NULL,year,1999
+1447069060,b772c5ecc78143107530bc7bbbb3205e,NewForm,99,0,quest,NULL,language,s
+1447069060,b772c5ecc78143107530bc7bbbb3205e,NewForm,99,0,quest,NULL,idturk,XXX
+1447069060,b772c5ecc78143107530bc7bbbb3205e,NewForm,99,0,quest,NULL,comment,
+1447069060,b772c5ecc78143107530bc7bbbb3205e,NewForm,99,0,quest,NULL,sex,female
+#
+# Results on Monday November 09 2015 12:05:54 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+# Design number was non-random = 1
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447070755,b772c5ecc78143107530bc7bbbb3205e,NewForm,0,0,agreement,NULL,,yes
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,2,1,practice,NULL,Practice,False,NULL,1206
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,50,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,3226
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,38,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are red.,r,NULL,1559
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,24,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are red.,a,NULL,716
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,59,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,3113
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,4,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are red.,a,NULL,987
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,70,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1588
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,14,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,973
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,41,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,3171
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,44,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,1752
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,97,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,1069
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,76,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1364
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,8,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some dots are green.,a,NULL,701
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,58,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,2005
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,7,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,1154
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,23,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,The crosses are green.,r,NULL,1700
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,72,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,2219
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,53,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,2404
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,16,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are red.,a,NULL,937
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,82,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,3916
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,27,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,1083
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,62,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are red.,r,NULL,923
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,31,1,1_CD_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,598
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,98,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are green.,a,NULL,806
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,28,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,1973
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,20,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1245
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,95,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,3440
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,51,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,1511
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,88,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1412
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,94,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,2979
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,75,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,3091
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,29,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,a,NULL,1803
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,22,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are blue.,a,NULL,3228
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,69,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,2701
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,80,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,2407
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,30,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,1485
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,26,1,1_CD_Filler-Target1_True_C_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,941
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,86,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,782
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,68,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,734
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,78,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1100
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,12,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are green.,a,NULL,978
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,85,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are blue.,a,NULL,1110
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,15,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,The crosses are blue.,r,NULL,2011
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,48,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,2014
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,96,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1420
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,83,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,1004
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,87,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,1483
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,5,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,The dots are green.,r,NULL,1394
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,60,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,1218
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,92,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are green.,a,NULL,2349
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,66,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1084
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,57,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,3068
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,61,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1132
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,6,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are green.,a,NULL,844
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,19,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,860
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,39,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,1671
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,84,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1077
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,56,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are blue.,r,NULL,1270
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,47,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,2817
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,73,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are green.,r,NULL,1116
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,49,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,746
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,55,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are blue.,r,NULL,719
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,42,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,a,NULL,2349
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,52,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,1038
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,36,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,882
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,40,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,1062
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,91,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,1733
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,54,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,2532
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,10,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The dots are blue.,a,NULL,918
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,25,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,837
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,79,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are red.,r,NULL,1109
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,13,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are red.,a,NULL,1027
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,46,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,2142
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,64,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1154
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,81,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,1453
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,37,1,1_CD_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are red.,a,NULL,907
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,45,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,1255
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,67,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,955
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,3,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,The dots are green.,r,NULL,817
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,21,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,The crosses are green.,r,NULL,518
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,18,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,The crosses are red.,a,NULL,691
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,77,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,1193
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,90,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,892
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,93,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,903
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,9,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,The dots are blue.,r,NULL,957
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,32,1,1_CD_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,1087
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,35,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,1871
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,11,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,The dots are green.,r,NULL,1109
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,33,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,779
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,63,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,1031
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,34,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,668
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,65,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,1294
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,89,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,940
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,74,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are green.,a,NULL,1398
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,43,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,741
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,71,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,1182
+1447070755,b772c5ecc78143107530bc7bbbb3205e,SubHtmlFlash,17,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,The crosses are green.,r,NULL,709
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447070755,b772c5ecc78143107530bc7bbbb3205e,NewForm,99,0,quest,NULL,year,1999
+1447070755,b772c5ecc78143107530bc7bbbb3205e,NewForm,99,0,quest,NULL,language,s
+1447070755,b772c5ecc78143107530bc7bbbb3205e,NewForm,99,0,quest,NULL,idturk,xxx
+1447070755,b772c5ecc78143107530bc7bbbb3205e,NewForm,99,0,quest,NULL,comment,
+1447070755,b772c5ecc78143107530bc7bbbb3205e,NewForm,99,0,quest,NULL,sex,female
+#
+# Results on Saturday November 14 2015 19:01:05 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+# Design number was non-random = 2
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447527665,1c21443d6740c95ef898ab8259660263,NewForm,0,0,agreement,NULL,,yes
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,1653
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,48,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,18324
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,59,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,False,NULL,5723
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,23,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are blue.,r,NULL,7031
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,7,1,1_CD_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,r,NULL,2466
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,58,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,False,NULL,7565
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,25,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,False,NULL,2147
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,84,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,2991
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,8,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,False,NULL,1442
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,81,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,3090
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,10,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are blue.,False,NULL,1326
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,64,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,False,NULL,1396
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,50,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are green.,False,NULL,1995
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,22,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are green.,False,NULL,1924
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,80,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,False,NULL,948
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,54,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,False,NULL,2019
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,39,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,5408
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,20,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are red.,False,NULL,2109
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,28,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,8200
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,32,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,3475
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,11,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are blue.,r,NULL,995
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,69,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,False,NULL,3516
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,90,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,4204
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,29,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,1635
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,31,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1627
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,68,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1138
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,70,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,False,NULL,1738
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,67,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1601
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,38,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All dots are blue.,r,NULL,483
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,56,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,465
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,37,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,False,NULL,780
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,41,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,1376
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,94,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,3153
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,72,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,False,NULL,1716
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,74,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,1584
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,77,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,4683
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,13,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some dots are green.,False,NULL,1028
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,30,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,2898
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,93,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,5403
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,62,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,3875
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,66,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,False,NULL,1517
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,36,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,626
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,60,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,False,NULL,1446
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,96,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1096
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,88,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1388
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,55,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,1139
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,40,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,1172
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,91,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,False,NULL,1374
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,26,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1210
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,27,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,2275
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,82,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,6117
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,33,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,3739
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,65,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,False,NULL,7805
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,3,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,2512
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,87,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,1189
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,12,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are red.,False,NULL,903
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,92,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are red.,r,NULL,778
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,16,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are green.,False,NULL,1244
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,42,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,1961
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,19,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are blue.,False,NULL,1446
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,53,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,False,NULL,1084
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,83,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,1384
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,78,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,905
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,44,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,643
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,47,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,4260
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,34,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,1171
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,97,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,False,NULL,846
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,52,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,False,NULL,939
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,71,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,False,NULL,1484
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,61,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are blue.,r,NULL,2441
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,46,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,7221
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,45,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,953
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,76,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,2347
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,73,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,1629
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,35,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,3524
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,17,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are green.,r,NULL,1275
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,14,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,788
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,4,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are green.,False,NULL,656
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,21,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are green.,r,NULL,968
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,75,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,774
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,79,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,False,NULL,1630
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,63,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,False,NULL,1043
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,15,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are blue.,r,NULL,1426
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,24,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are red.,False,NULL,1757
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,98,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are green.,False,NULL,1138
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,49,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,833
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,6,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are green.,False,NULL,742
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,85,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are red.,False,NULL,1123
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,89,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,746
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,95,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,884
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,57,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,False,NULL,854
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,51,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,False,NULL,1204
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,43,1,1_CD_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are blue.,False,NULL,764
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,18,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are red.,False,NULL,673
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,5,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,540
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,9,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,436
+1447527665,1c21443d6740c95ef898ab8259660263,SubHtmlFlash,86,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,False,NULL,1019
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447527665,1c21443d6740c95ef898ab8259660263,NewForm,99,0,quest,NULL,year,1978
+1447527665,1c21443d6740c95ef898ab8259660263,NewForm,99,0,quest,NULL,language,English
+1447527665,1c21443d6740c95ef898ab8259660263,NewForm,99,0,quest,NULL,idturk,AIOF4ZQQ9UDZ4
+1447527665,1c21443d6740c95ef898ab8259660263,NewForm,99,0,quest,NULL,comment,
+1447527665,1c21443d6740c95ef898ab8259660263,NewForm,99,0,quest,NULL,sex,male
+#
+# Results on Saturday November 14 2015 19:01:20 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+# Design number was non-random = 2
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,NewForm,0,0,agreement,NULL,,yes
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,16
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,60,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,6512
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,26,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,6728
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,52,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,1547
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,63,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,3641
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,51,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,1165
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,4,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are green.,a,NULL,1368
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,80,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,1133
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,62,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,1400
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,41,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,4644
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,3,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,1873
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,36,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,3121
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,33,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,4003
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,27,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,2703
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,69,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,1639
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,98,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are green.,a,NULL,4984
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,88,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,6199
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,92,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,1774
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,25,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,724
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,45,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,1434
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,9,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,911
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,94,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1784
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,47,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,1941
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,55,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,1421
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,7,1,1_CD_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,r,NULL,957
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,20,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,1722
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,84,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,4842
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,30,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,2549
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,77,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,2497
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,10,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are blue.,a,NULL,1153
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,15,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are blue.,r,NULL,1731
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,86,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1251
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,11,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are blue.,r,NULL,852
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,32,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,1407
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,78,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,5126
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,5,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,721
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,40,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,1410
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,35,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,2871
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,14,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,926
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,95,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,1538
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,44,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1989
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,89,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,1948
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,48,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,1612
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,68,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,4788
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,17,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are green.,r,NULL,1331
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,57,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,2043
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,8,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,2501
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,71,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,3328
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,22,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are green.,a,NULL,1281
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,6,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are green.,a,NULL,4313
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,75,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,2578
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,72,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,4161
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,66,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,990
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,19,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,650
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,37,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1857
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,43,1,1_CD_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are blue.,a,NULL,705
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,83,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,2349
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,38,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All dots are blue.,r,NULL,1286
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,58,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,2154
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,39,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,865
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,56,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1024
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,18,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are red.,a,NULL,1166
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,96,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1834
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,76,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1774
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,87,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,882
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,93,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,3680
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,31,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,861
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,13,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some dots are green.,a,NULL,973
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,70,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1643
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,53,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,5203
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,82,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1786
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,90,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,2696
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,34,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,1878
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,59,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,8273
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,74,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,2723
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,42,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,7740
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,61,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are blue.,r,NULL,1733
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,49,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,1446
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,91,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,2377
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,16,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are green.,a,NULL,1193
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,21,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are green.,r,NULL,824
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,97,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,1437
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,54,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,4922
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,50,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are green.,a,NULL,937
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,24,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are red.,a,NULL,746
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,64,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,986
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,46,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,737
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,73,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,580
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,23,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are blue.,r,NULL,735
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,67,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,762
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,85,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are red.,a,NULL,1305
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,65,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,798
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,79,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,913
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,12,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are red.,a,NULL,624
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,81,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,641
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,29,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,582
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,SubHtmlFlash,28,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,676
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,NewForm,99,0,quest,NULL,year,1993
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,NewForm,99,0,quest,NULL,language,English
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,NewForm,99,0,quest,NULL,idturk,ALWMGDUMRBQID
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,NewForm,99,0,quest,NULL,comment,linguistics
+1447527681,2d8af7639ed6a6b3b62d38d30c1642c3,NewForm,99,0,quest,NULL,sex,male
+#
+# Results on Saturday November 14 2015 19:06:05 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+# Design number was non-random = 2
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447527966,f106c1ba0260c75de172158c92fec75b,NewForm,0,0,agreement,NULL,,yes
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,2,1,practice,NULL,Practice,True,NULL,1976
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,57,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,True,NULL,10268
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,11,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are blue.,True,NULL,2659
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,36,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,True,NULL,11105
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,35,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,True,NULL,7186
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,70,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,False,NULL,12503
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,29,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,True,NULL,11389
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,17,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are green.,True,NULL,3594
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,80,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,False,NULL,2940
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,59,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,True,NULL,14856
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,45,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,True,NULL,9844
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,50,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are green.,False,NULL,2860
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,82,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,True,NULL,7182
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,79,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,False,NULL,2364
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,62,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,True,NULL,4064
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,77,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,True,NULL,7435
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,19,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are blue.,False,NULL,1918
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,8,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,False,NULL,3570
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,83,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,True,NULL,3471
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,44,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,True,NULL,2704
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,37,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,False,NULL,1807
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,78,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,True,NULL,3879
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,39,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,True,NULL,4439
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,95,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,True,NULL,6514
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,74,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,True,NULL,3335
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,16,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are green.,False,NULL,1759
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,28,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,True,NULL,5718
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,54,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,False,NULL,9614
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,65,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,True,NULL,7211
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,69,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,True,NULL,4349
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,24,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are red.,False,NULL,2159
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,47,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,True,NULL,6172
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,38,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All dots are blue.,True,NULL,2309
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,27,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,True,NULL,6258
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,31,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,True,NULL,2786
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,33,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,True,NULL,8599
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,91,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,False,NULL,5127
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,60,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,False,NULL,5120
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,64,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,False,NULL,10568
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,97,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,False,NULL,2693
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,7,1,1_CD_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,True,NULL,2703
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,71,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,True,NULL,10213
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,84,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,True,NULL,6403
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,63,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,True,NULL,4476
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,14,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some dots are blue.,True,NULL,2698
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,93,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,True,NULL,3783
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,3,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,True,NULL,3162
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,75,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,True,NULL,10913
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,52,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,False,NULL,3235
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,40,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,True,NULL,2774
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,46,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,True,NULL,6935
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,25,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,False,NULL,2780
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,89,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,True,NULL,11618
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,4,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are green.,False,NULL,1649
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,49,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are green.,True,NULL,2486
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,9,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,True,NULL,1748
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,34,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,True,NULL,3222
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,21,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are green.,True,NULL,3182
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,10,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are blue.,False,NULL,2196
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,81,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,True,NULL,2837
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,32,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,True,NULL,2096
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,61,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are blue.,True,NULL,2995
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,48,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,True,NULL,2634
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,68,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,True,NULL,2525
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,51,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,True,NULL,4197
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,86,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,False,NULL,2764
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,22,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are green.,False,NULL,3037
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,87,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,True,NULL,3424
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,96,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,True,NULL,4817
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,55,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,True,NULL,4412
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,67,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,True,NULL,1467
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,72,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,False,NULL,3017
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,41,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,True,NULL,3340
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,90,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,True,NULL,3145
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,94,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,True,NULL,1887
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,12,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are red.,False,NULL,1857
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,73,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,True,NULL,3689
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,42,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,True,NULL,3454
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,6,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are green.,False,NULL,1319
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,88,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,True,NULL,1897
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,23,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are blue.,True,NULL,2944
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,30,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,True,NULL,2615
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,76,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,True,NULL,2385
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,92,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are red.,False,NULL,1727
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,56,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are blue.,True,NULL,2556
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,13,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some dots are green.,False,NULL,2505
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,15,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are blue.,True,NULL,2098
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,5,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,True,NULL,1755
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,20,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are red.,False,NULL,3291
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,85,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are red.,False,NULL,2696
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,18,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are red.,False,NULL,1948
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,43,1,1_CD_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are blue.,False,NULL,2784
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,98,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are green.,False,NULL,2344
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,53,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,True,NULL,2875
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,66,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,False,NULL,2814
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,26,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,True,NULL,2785
+1447527966,f106c1ba0260c75de172158c92fec75b,SubHtmlFlash,58,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,False,NULL,2080
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447527966,f106c1ba0260c75de172158c92fec75b,NewForm,99,0,quest,NULL,year,1946
+1447527966,f106c1ba0260c75de172158c92fec75b,NewForm,99,0,quest,NULL,language,English
+1447527966,f106c1ba0260c75de172158c92fec75b,NewForm,99,0,quest,NULL,idturk,A1C0H8G0YI15MN
+1447527966,f106c1ba0260c75de172158c92fec75b,NewForm,99,0,quest,NULL,comment,Seems to test whether items separated by the mid line can be part of the same object.  That is%2C do I see all points as part of a whole%2C or there are two parts of a whole.
+1447527966,f106c1ba0260c75de172158c92fec75b,NewForm,99,0,quest,NULL,sex,male
+#
+# Results on Saturday November 14 2015 19:18:09 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+# Design number was non-random = 5
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447528690,5bea628f299aeaddc40087465c0dc82a,NewForm,0,0,agreement,NULL,,yes
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,1272
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,47,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,a,NULL,19880
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,38,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All dots are blue.,r,NULL,3074
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,91,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,5255
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,7,1,1_CD_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,r,NULL,2609
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,8,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,2108
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,82,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,12252
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,18,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are red.,a,NULL,2613
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,43,1,1_CD_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are blue.,a,NULL,2689
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,3,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,3645
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,49,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,3177
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,51,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,5951
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,59,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,5402
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,40,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,a,NULL,7875
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,32,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,2131
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,48,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,a,NULL,9165
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,74,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,2311
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,92,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,2523
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,69,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,5044
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,24,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are red.,a,NULL,2303
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,72,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,2556
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,85,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are red.,a,NULL,2845
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,4,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are green.,a,NULL,810
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,16,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are green.,a,NULL,2611
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,65,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,5100
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,62,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,r,NULL,2569
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,42,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,7767
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,81,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,2618
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,58,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,3180
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,21,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are green.,r,NULL,2893
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,17,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are green.,r,NULL,2888
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,75,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,2172
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,5,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,779
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,44,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,978
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,76,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,3965
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,84,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,4500
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,39,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,2439
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,36,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,1842
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,57,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,2073
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,86,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,a,NULL,2149
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,53,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,2732
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,14,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,649
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,54,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,1709
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,61,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are blue.,r,NULL,2654
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,90,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,3415
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,30,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,1940
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,98,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are green.,a,NULL,1836
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,68,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1897
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,78,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1119
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,37,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,1714
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,10,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are blue.,a,NULL,2115
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,97,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,1592
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,67,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1281
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,19,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,784
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,94,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,5306
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,95,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,2106
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,26,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,2451
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,11,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are blue.,r,NULL,812
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,41,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,2061
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,35,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,3757
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,52,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,3266
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,20,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,800
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,27,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,3240
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,13,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some dots are green.,a,NULL,1115
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,50,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are green.,a,NULL,2491
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,96,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,3692
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,28,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,3194
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,89,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,2690
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,29,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,1363
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,70,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1404
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,60,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,1147
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,80,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,765
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,55,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,698
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,22,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are green.,a,NULL,1966
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,34,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,r,NULL,2595
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,45,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,r,NULL,2620
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,9,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,669
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,79,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,2411
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,63,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,2695
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,77,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,2082
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,46,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,r,NULL,1923
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,56,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1056
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,83,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,1648
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,12,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are red.,a,NULL,1984
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,73,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,2398
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,88,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1635
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,71,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,3953
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,25,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,3160
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,87,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,1304
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,23,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are blue.,r,NULL,3133
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,33,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,r,NULL,5070
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,66,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1452
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,93,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,2449
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,31,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1778
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,15,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are blue.,r,NULL,582
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,6,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are green.,a,NULL,568
+1447528690,5bea628f299aeaddc40087465c0dc82a,SubHtmlFlash,64,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,2018
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447528690,5bea628f299aeaddc40087465c0dc82a,NewForm,99,0,quest,NULL,year,1983
+1447528690,5bea628f299aeaddc40087465c0dc82a,NewForm,99,0,quest,NULL,language,English
+1447528690,5bea628f299aeaddc40087465c0dc82a,NewForm,99,0,quest,NULL,idturk,A34SUZWGLXIWM8
+1447528690,5bea628f299aeaddc40087465c0dc82a,NewForm,99,0,quest,NULL,comment,It was pretty interesting.
+1447528690,5bea628f299aeaddc40087465c0dc82a,NewForm,99,0,quest,NULL,sex,male
+#
+# Results on Saturday November 14 2015 19:40:33 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+# Design number was non-random = 6
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,NewForm,0,0,agreement,NULL,,yes
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,2,1,practice,NULL,Practice,r,NULL,995
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,65,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,7031
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,24,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are red.,a,NULL,1773
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,94,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,6502
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,51,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,3039
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,22,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are green.,a,NULL,2320
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,11,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are blue.,r,NULL,3041
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,73,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,3781
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,47,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,a,NULL,9863
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,48,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,a,NULL,5125
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,17,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are green.,r,NULL,1809
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,45,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,a,NULL,3084
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,67,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1232
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,91,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,959
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,52,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,2200
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,16,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are green.,a,NULL,1407
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,20,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,938
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,23,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are blue.,r,NULL,2069
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,21,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are green.,r,NULL,1294
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,83,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,1674
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,97,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are blue.,a,NULL,1243
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,92,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are red.,a,NULL,861
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,66,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,2100
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,88,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,3792
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,95,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,2064
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,5,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,1308
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,81,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,2272
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,32,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,1232
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,82,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1603
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,61,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are blue.,r,NULL,1893
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,53,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,903
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,54,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,755
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,12,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are red.,r,NULL,1322
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,3,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,1107
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,70,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,803
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,96,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,957
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,7,1,1_CD_Filler-Target1_True_C_Baseline_X-X_X,NULL,All dots are green.,r,NULL,861
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,77,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,1964
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,89,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,1732
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,76,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1345
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,30,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,a,NULL,3034
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,44,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1394
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,19,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,876
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,63,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,1527
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,27,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,a,NULL,4185
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,38,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All dots are blue.,r,NULL,927
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,68,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,549
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,29,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,a,NULL,1050
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,69,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,1108
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,50,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All crosses are green.,a,NULL,1034
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,93,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,1104
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,84,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,r,NULL,1293
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,86,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are green.,a,NULL,652
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,56,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,689
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,62,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All dots are green.,a,NULL,653
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,74,1,1_CD_Filler-Env-F_True_D_Baseline_X-X_X,NULL,All crosses are blue.,r,NULL,2142
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,71,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,a,NULL,1379
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,4,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are green.,a,NULL,1117
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,80,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,653
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,72,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,778
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,42,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,a,NULL,2620
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,64,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,a,NULL,1161
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,87,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 crosses are arranged as a triangle.,r,NULL,1968
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,79,1,1_CD_Filler-Env-T_False_C_Baseline_X-X_X,NULL,Some dots are blue.,a,NULL,827
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,58,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,692
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,60,1,1_CD_Env-F_False_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,1116
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,10,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are blue.,a,NULL,872
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,36,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,a,NULL,1004
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,35,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,a,NULL,836
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,26,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some crosses are blue.,r,NULL,1612
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,59,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,818
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,75,1,1_CD_Env-T_True_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,r,NULL,1607
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,13,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some dots are green.,a,NULL,833
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,25,1,1_CD_Filler-Target1_False_D_Baseline_X-X_X,NULL,Some crosses are red.,a,NULL,633
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,43,1,1_CD_Filler-Target2_False_D_Baseline_X-X_X,NULL,Some crosses are blue.,a,NULL,830
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,39,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,a,NULL,984
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,15,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All crosses are blue.,r,NULL,853
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,90,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 crosses are arranged as a square.,r,NULL,1779
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,14,1,1_CD_Filler-Target1_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,699
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,34,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,a,NULL,1612
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,46,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,a,NULL,653
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,85,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All dots are red.,a,NULL,1203
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,6,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All dots are green.,a,NULL,736
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,49,1,1_CD_Filler-Target2_True_C_Baseline_X-X_X,NULL,All crosses are green.,r,NULL,694
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,37,1,1_CD_Filler-Target2_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,507
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,78,1,1_CD_Env-T_True_C_Collective_5-9_are arranged as a square,NULL,Between 5 and 9 dots are arranged as a square.,a,NULL,1275
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,28,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 dots form a circle around the letter.,a,NULL,893
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,98,1,1_CD_Filler-Env-T_False_D_Baseline_X-X_X,NULL,All crosses are green.,a,NULL,1073
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,9,1,1_CD_Target1_True_C_Baseline_4-8_are,NULL,All dots are green.,r,NULL,723
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,55,1,1_CD_Filler-Env-F_True_C_Baseline_X-X_X,NULL,Some dots are green.,r,NULL,575
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,8,1,1_CD_Filler-Target1_False_C_Baseline_X-X_X,NULL,All dots are green.,a,NULL,663
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,33,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 dots form a circle around the letter.,a,NULL,392
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,31,1,1_CD_Filler-Target2_True_D_Baseline_X-X_X,NULL,Some dots are blue.,r,NULL,578
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,57,1,1_CD_Env-F_False_C_Collective_4-8_are arranged as a triangle,NULL,Between 4 and 8 dots are arranged as a triangle.,a,NULL,919
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,40,1,1_CD_Target2_Target_D_Collective_5-9_form a circle around the letter,NULL,Between 5 and 9 crosses form a circle around the letter.,a,NULL,955
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,41,1,1_CD_Target2_Target_D_Collective_6-10_form a circle around the letter,NULL,Between 6 and 10 crosses form a circle around the letter.,a,NULL,886
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,SubHtmlFlash,18,1,1_CD_Target1_False_C_Baseline_5-9_are,NULL,All crosses are red.,r,NULL,1203
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,NewForm,99,0,quest,NULL,year,1986
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,NewForm,99,0,quest,NULL,language,English
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,NewForm,99,0,quest,NULL,idturk,A3GOKNZGZGHL45
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,NewForm,99,0,quest,NULL,comment,This was very interesting.
+1447530033,1650b1a20fef707fd6c8bb5f4389cfa4,NewForm,99,0,quest,NULL,sex,male

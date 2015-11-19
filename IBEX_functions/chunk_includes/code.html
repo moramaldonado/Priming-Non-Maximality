@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+</<style>
+h2 {color: #6496c8;
+font-family:  'Bitter',serif;}
+
+h1 {font-family:  'Bitter',serif;}
+p {border: 3px solid #6496c8}
+
+</style>
+
+
+  <body>
+
+    <script type="text/javascript">
+
+     window.onload = generateRandomNumber;
+     function generateRandomNumber(){
+     var num = Math.floor(Math.random()*6+1);
+     var myArray = ['F', 'G', 'H', 'I','J'];
+     var rand = myArray[Math.floor(Math.random() * myArray.length)];
+     var myArray2 = ['A', 'B', 'C', 'D'];
+     var rand2 = myArray2[Math.floor(Math.random() * myArray2.length)];
+     var myArray3 = ['Y', 'Z', 'W'];
+     var rand3 = myArray3[Math.floor(Math.random() * myArray3.length)];
+     var num2 = Math.floor(Math.random()*25+10);
+
+     var n = String(rand)+String(num)+String(rand3)+String(num2)+String(rand2);
+
+ document.getElementById("randomNumber").innerHTML = n;
+ }
+ </script>
+
+<p>
+   <h2> Code: </h2> <h1 id="randomNumber">
+</p>
+  </body>
+</html>

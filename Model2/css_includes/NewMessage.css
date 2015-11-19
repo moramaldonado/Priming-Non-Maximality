@@ -1,0 +1,42 @@
+.message {
+    font-size: medium;
+    width: 40em;
+}
+
+.continue-link
+{
+  display: inline-block;
+  margin: 5px 0px 10px 200px;
+  padding: 15px 25px;
+  font-size: 15px;
+  font-family:  'Bitter',serif;
+  line-height: 1.5;
+  appearance: none;
+  box-shadow: none;
+  border-radius: 25;
+  
+  color: #6496c8;
+  background: rgba(0,0,0,0);
+  border: solid 5px #6496c8;
+  text-decoration: none;
+
+}
+
+.continue-link:hover {
+  display: inline-block;
+  margin: 5px 0px 10px 200px;
+  padding: 15px 25px;
+  font-size: 15px;
+  font-family: "Bitter",serif;
+  line-height: 1.5;
+  appearance: none;
+  box-shadow: none;
+  border-radius: 25;
+  
+  border-color: #346392;
+  color: #346392;
+  text-decoration: none;
+  
+}
+
+

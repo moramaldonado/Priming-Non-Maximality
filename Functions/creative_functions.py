@@ -58,11 +58,11 @@ def parametters_shapes(CONDITION, TYPE):
     if  CONDITION == 'False':
         if TYPE == 'B':
             #parametters of "False"
-            W = 50
-            H = 50
+            W = 60
+            H = 60
             radio = 3
             letter_size = 14
-            width_shape = 2
+            width_shape = 3
 
             # P corresponds to the list of points for the shapes; L corresponds to the two-points arrays for the connections
             P = [[W/2-15,H/2],
@@ -76,21 +76,21 @@ def parametters_shapes(CONDITION, TYPE):
             [[W/2,H/2+13],[W/2,H/2+4]]]
 
         if TYPE == 'A':
-            W = 40
-            H = 40
+            W = 60
+            H = 60
             radio = 4
             letter_size = 14
-            width_shape = 2
+            width_shape = 3
             L = 0
             P = 0
 
 
     if CONDITION == 'True':
-        W = 60
-        H = 60
-        radio = 3
+        W = 70
+        H = 70
+        radio = 4
         letter_size = 18
-        width_shape = 2
+        width_shape = 3
 
         P = [[W/2-10,H/2+20],
         [W/2+10,H/2+20],
@@ -115,9 +115,9 @@ def parametters_shapes(CONDITION, TYPE):
             H = 70
 
 
-        radio = 2
+        radio = 3
         letter_size = 20
-        width_shape = 1
+        width_shape = 3
 
 
         P = [[W/2-15,H/2+21],
@@ -294,15 +294,18 @@ def random_letters(path,colors,letters):
 
 
 def parametters(TYPE):
-    W = 180
-    H = 220
+    W = 210
+    H = 210
     positions = {}
 
     if TYPE == 'A':
-        positions['above']= [[W/4,H/4],[W-W/4,H/3],[W/2,H/3]]
-        positions['below']= [[W/4,H-H/4],[W-W/4,H-H/3],[W/2,H-H/3]]
+        positions['above']= [[W/4+5,H/4+5],[W-W/4,H/3],[W/2,H/4], [W-10,H-H/3],[10,H-H/3]]
+        positions['below']= [[W/4+5,H-H/4-5],[W-W/4,H-H/3],[W/2,H-H/4], [W-10,H/3],[10,H/3]]
+
+
+
     else:
-        positions['B'] = [[W/4,H/4],[W-W/4,H/4],[W/2,H-H/4]]
+        positions['B'] = [[W/4,H/4],[W-W/4,H/4],[W/4,H-H/4],[W-W/4,H-H/4]]
 
     return W,H,positions
 
@@ -327,17 +330,27 @@ def images_A(colors, shapes,condition,objects,path_in, path_out):
 
                         window = pygame.display.set_mode([W, H])
                         window.fill([255,255,255])
-                        pygame.draw.line(window, black, (W-10,H/2),(10,H/2) , 2)
+
 
                         if condition[c] == 'Target':
                             image1 = 'Target'+'_A_'+shapes[s]+'_'+str(key)+'_'+objects[o]+'.png'
                             image2 = 'True'+'_A_'+shapes[s]+'_'+str(key)+'_'+objects[o]+'.png'
                             display_img(path_in, image1, window, positions[key1][0])
                             display_img(path_in, image2, window, positions[key1][1])
+                            pygame.draw.line(window, black, positions[key1][3],positions[key1][4] , 3)
 
                         else:
+
                             image = condition[c]+'_A_'+shapes[s]+'_'+str(key)+'_'+objects[o]+'.png'
+                            n = random.choice(['1','2'])
+                            fill = 'fill_'+n+'_'+ shapes[s]+'.png'
                             display_img(path_in, image, window, positions[key1][2])
+
+                            if key1 == 'above':
+                                display_img(path_in, fill, window, positions['below'][2])
+                            else:
+                                display_img(path_in, fill, window, positions['above'][2])
+                            pygame.draw.line(window, black, (W-10,H/2),(10,H/2) , 3)
 
                         os.chdir(path_out)
                         imgname = condition[c]+'_A_'+shapes[s]+'_'+str(key)+'_'+objects[o]+'_'+str(key1)+'_.png'
@@ -364,22 +377,28 @@ def images_B (colors, shapes,letters,condition,path_in, path_out):
                 window.fill([255,255,255])
                 random.shuffle(positions['B'])
                 random.shuffle(letters)
+                #pygame.draw.line(window, black, (0,H/2),(W,H/2) , 2)
+                #pygame.draw.line(window, black, (W/2,H),(W/2,0) , 2)
 
                 if condition[c] == 'Target':
-                    image1 = 'Target'+'_B_'+shapes[s]+'_'+str(key)+'_'+letters[0]+'.png'
-                    image2 = 'True'+'_B_'+shapes[s]+'_'+str(key)+'_'+letters[1]+'.png'
-                    fill = 'Fill'+'_B_'+str(key)+'_'+letters[2]+'.png'
+                    image1 = 'Target'+'_B_'+shapes[s]+'_'+str(key)+'.png'
+                    image2 = 'True'+'_B_'+shapes[s]+'_'+str(key)+'.png'
+                    fill = 'Fill_'+shapes[s]+'_'+str(key)+'_1'+'.png'
+                    fill2 = 'Fill_'+shapes[s]+'_'+str(key)+'_2'+'.png'
                     display_img(path_in, image1, window, positions['B'][0])
                     display_img(path_in, image2, window, positions['B'][1])
                     display_img(path_in, fill, window, positions['B'][2])
+                    display_img(path_in, fill2, window, positions['B'][3])
 
                 else:
-                    image = condition[c]+'_B_'+shapes[s]+'_'+str(key)+'_'+letters[1]+'.png'
-                    fill1 ='Fill'+'_B_'+str(key)+'_'+letters[0]+'.png'
-                    fill2 ='Fill'+'_B_'+str(key)+'_'+letters[1]+'.png'
+                    image = condition[c]+'_B_'+shapes[s]+'_'+str(key)+'.png'
+                    fill1 ='Fill_'+shapes[s]+'_'+str(key)+'_1'+'.png'
+                    fill2 ='Fill_'+shapes[s]+'_black'+'_1'+'.png'
+                    fill3 ='Fill_'+shapes[s]+'_black'+'_2'+'.png'
                     display_img(path_in, image, window, positions['B'][2])
                     display_img(path_in, fill2, window, positions['B'][1])
                     display_img(path_in, fill1, window, positions['B'][0])
+                    display_img(path_in, fill3, window, positions['B'][3])
 
                 os.chdir(path_out)
                 imgname = condition[c]+'_B_'+shapes[s]+'_'+str(key)+'_.png'
